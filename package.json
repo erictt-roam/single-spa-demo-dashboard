@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "lerna": "^5.4.3"
+  },
+  "name": "single-spa",
+  "scripts": {
+    "start": "lerna run start --stream",
+    "dev": "lerna run dev --stream",
+    "prod": "lerna run start-prod --stream",
+    "test": "lerna run test --stream"
+  }
+}
