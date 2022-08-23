@@ -20,3 +20,8 @@ After installation just run the starter to run all the apps:
 ```
 yarn start
 ```
+
+Finally, access the URL:
+```
+http://localhost:9000/
+```
